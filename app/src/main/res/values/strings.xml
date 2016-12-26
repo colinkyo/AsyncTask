@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="btn_name">下载网络图片</string>
+</resources>
